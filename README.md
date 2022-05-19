@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-**bingguo-12883/bingguo-12883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**my name is binjiang ,From hunan ,After a 00**
+🔭 I am currently doing self - examination
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 
 - 👯 I’m looking to collaborate on ...
