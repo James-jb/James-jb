@@ -7,9 +7,12 @@
 🌗 My major is Computer application and Finance
 </h4>
 
+<br>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h3>🌐Be a great coder</h3>
 
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical) 
+
+- 📫 How to reach me:
+- QQ：2066842941
+- mail：binjiang2022@yeah.net
