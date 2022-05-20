@@ -11,7 +11,6 @@
 
 
 
-
 <table border="1" element align="center">
         <tr class="1">
             <td>leading end</td>
@@ -19,19 +18,27 @@
 <img src="https://img.shields.io/badge/html-5-brightgreen">
 <img src="https://img.shields.io/badge/css-3-yellowgreen">
 <img src="https://img.shields.io/badge/JavaScript-yes-red">
+<img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-no-blue">
             </td>
         </tr>
         <tr class="2">
-            <td>后端</td>
-            <td><img src="https://img.shields.io/badge/python-3.9-orange"></td>
+            <td>trailing end</td>
+            <td>
+<img src="https://img.shields.io/badge/python-orange">
+<img src="https://img.shields.io/badge/python-%203.9.13-lightgrey">
+            </td>
         </tr>
         <tr class="3">
             <td>数据库</td>
-            <td>row 1, cell 2</td>
+            <td>
+<img src="https://img.shields.io/badge/accsee-666-brightgreen">
+             </td>
         </tr>
         <tr class="4">
             <td>游戏</td>
-            <td>row 1, cell 2</td>
+            <td>
+<img src="">
+                </td>
         </tr>
         <tr class="5">
             <td>影视后期</td>
