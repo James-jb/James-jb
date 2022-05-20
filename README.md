@@ -10,7 +10,9 @@
 <br>
 <h3>🌐The skills I have</h3>
 
-  <table border="1">
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingguo-12883)
+
+<table border="0" element align="right">
         <tr class="1">
             <td>前端</td>
             <td>row 1, cell 2</td>
@@ -31,12 +33,8 @@
             <td>影视后期</td>
             <td>row 1, cell 2</td>
         </tr>
-    </table>
+</table>
 
-
-<br>
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingguo-12883)
 <br><br>
 
 <h3>📫 How to reach me:</h3>
