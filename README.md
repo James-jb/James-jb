@@ -47,9 +47,7 @@
             </td>
         </tr>
 </table>
-
-
-<br><br>
+<br>
 <h3>📫 How to reach me:</h3>
  <ul>
    <li>QQ：2066842941</li>
