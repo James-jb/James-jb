@@ -10,12 +10,28 @@
 <br>
 <h3>🌐The skills I have</h3>
 
-前端
-后端
-数据库
-游戏
-影视后期
-
+  <table border="1">
+        <tr class="1">
+            <td>前端</td>
+            <td>row 1, cell 2</td>
+        </tr>
+        <tr class="2">
+            <td>后端</td>
+            <td>row 2, cell 2</td>
+        </tr>
+        <tr class="3">
+            <td>数据库</td>
+            <td>row 1, cell 2</td>
+        </tr>
+        <tr class="4">
+            <td>游戏</td>
+            <td>row 1, cell 2</td>
+        </tr>
+        <tr class="5">
+            <td>影视后期</td>
+            <td>row 1, cell 2</td>
+        </tr>
+    </table>
 
 
 <br>
