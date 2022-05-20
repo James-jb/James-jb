@@ -11,7 +11,7 @@
 
 
 
-<table border="1" element align="center">
+<table border="1">
         <tr class="1">
             <td>leading end</td>
             <td>
@@ -29,20 +29,22 @@
             </td>
         </tr>
         <tr class="3">
-            <td>数据库</td>
+            <td>data bank</td>
             <td>
 <img src="https://img.shields.io/badge/accsee-666-brightgreen">
-             </td>
+            </td>
         </tr>
         <tr class="4">
-            <td>游戏</td>
+            <td>game</td>
             <td>
 <img src="">
-                </td>
+            </td>
         </tr>
         <tr class="5">
-            <td>影视后期</td>
-            <td>row 1, cell 2</td>
+            <td>video post-production</td>
+            <td>
+<img src="">
+            </td>
         </tr>
 </table>
 
