@@ -11,7 +11,7 @@
 
 
 
-<table border="1">
+<table border="0">
         <tr class="1">
             <td>leading end</td>
             <td>
