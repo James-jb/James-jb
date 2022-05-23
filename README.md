@@ -43,12 +43,12 @@
         <tr class="5">
             <td>video post-production</td>
             <td>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-                </td>
+<img src="https://img.shields.io/badge/Ai-1-brightgreen">
+<img src="https://img.shields.io/badge/Ps-2-green">
+<img src="https://img.shields.io/badge/Pr-3-yellowgreen">
+<img src="https://img.shields.io/badge/Ae-4-yellow">
+<img src="https://img.shields.io/badge/Au-5-red">
+            </td>
         </tr>
 </table>
 <br>
