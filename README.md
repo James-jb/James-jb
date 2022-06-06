@@ -38,6 +38,7 @@
             <td>game</td>
             <td>
 <img src="https://img.shields.io/badge/%E8%99%9A%E5%B9%BB-NO-green">
+<img src="https://img.shields.io/badge/blender-gs-blue">
             </td>
         </tr>
         <tr class="5">
