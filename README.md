@@ -37,7 +37,7 @@
         <tr class="4">
             <td>game</td>
             <td>
-<img src="https://img.shields.io/badge/%E8%99%9A%E5%B9%BB-SB-%E3%80%81">
+<img src="https://img.shields.io/badge/%E8%99%9A%E5%B9%BB-NO-green">
             </td>
         </tr>
         <tr class="5">
