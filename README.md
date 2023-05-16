@@ -1,8 +1,7 @@
 ### Hi there 👋👋👋
 <h1>my name is binjiang ,From hunan ,After a 04</h1>
 <h4>
-🔭 I am currently doing self - examination
-🌗 My major is Computer application and Finance
+🔭 我要在github白嫖
 </h4>
 <br>
 <h3>🌐The skills I have</h3>
