@@ -2,7 +2,7 @@
 
 #### To native English speakers or language partners:
 These are translated by a translator. If you don’t understand English, please forgive me.<br>
-这些是翻译器翻译的，英文的看不懂还请原谅。
+<!--这些是翻译器翻译的，英文的看不懂还请原谅。-->
 
 <br/>
 
