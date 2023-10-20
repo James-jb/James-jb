@@ -6,7 +6,7 @@
 <br>
 <h3>🌐The skills I have</h3>
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingguo-12883)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-jb)
 
 
 
