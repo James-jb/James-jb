@@ -20,7 +20,10 @@ But I enjoy learning new technologies and solving complex problems, while also b
 > **NOTE:** That's probably all I know
 
 <p align="center">
-     
+     <img src="https://img.shields.io/badge/html-5-brightgreen">
+     <img src="https://img.shields.io/badge/css-3-yellowgreen">
+     <img src="https://img.shields.io/badge/JavaScript-yes-red">
+     <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-no-blue">
 </p>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-jb)
