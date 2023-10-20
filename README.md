@@ -7,7 +7,7 @@ These are translated by a translator. If you don’t understand English, please 
 <br/>
 
 
-## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" /> 😨About Me 
+## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" />  😨About Me 
 I am a student who loves programming with 2-3 years of experience. 
 <!--我是一名热爱编程的学生，拥有2-3年的经验。-->
 I'm good at programming in Java and not very familiar with any frameworks. 
@@ -16,21 +16,43 @@ But I enjoy learning new technologies and solving complex problems, while also b
 <!--但是我喜欢学习新技术和解决复杂的问题，同时也善于与团队成员合作。-->
 
 
-## <img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gif" height="20px" /> 🌀My Skills 
+## <img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gif" height="20px" />  🌀My Skills 
 > **NOTE:** That's probably all I know
 
-<p align="center">
+<!--<p align="center">
+以前的呀，
      <img src="https://img.shields.io/badge/html-5-brightgreen">
      <img src="https://img.shields.io/badge/css-3-yellowgreen">
      <img src="https://img.shields.io/badge/JavaScript-yes-red">
-     <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-no-blue">
-</p>
+</p>-->
+
+<p align="left">
+<!--vs code-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<!--Linux-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
+<!--git-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+
+<!--所有语言了-->
+<!--前端-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
+<!--后端-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="c#"/>
+<!--数据库-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-jb)
 
 
 
-## <img src="./message.gif" height="24px" /> 📫Get in Touch 
+## <img src="./message.gif" height="24px" />  📫Get in Touch 
 > **NOTE:** May not grow in
  
  <ul>
