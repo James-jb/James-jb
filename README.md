@@ -8,9 +8,6 @@ These are translated by a translator. If you don’t understand English, please 
 
 
 ## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" /> About Me 😨
-
-
-
 I am a student who loves programming with 2-3 years of experience. 
 <!--我是一名热爱编程的学生，拥有2-3年的经验。-->
 I'm good at programming in Java and not very familiar with any frameworks. 
@@ -19,11 +16,11 @@ But I enjoy learning new technologies and solving complex problems, while also b
 <!--但是我喜欢学习新技术和解决复杂的问题，同时也善于与团队成员合作。-->
 
 
-
-
 ## <img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gif" height="20px" /> My Skills 🌀
+> **NOTE:** That's probably all I know
+
 <p align="center">
- 
+     
 </p>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-jb)
@@ -31,6 +28,8 @@ But I enjoy learning new technologies and solving complex problems, while also b
 
 
 ## <img src="./message.gif" height="24px" /> Get in Touch 📫
+> **NOTE:** May not grow in
+ 
  <ul>
    <li>mail： binjiang2022@yeah.net</li>
    <li>CSDN： https://blog.csdn.net/weixin_58570217?spm=1000.2115.3001.5343</li>
