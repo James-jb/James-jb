@@ -1,4 +1,4 @@
-![header_](https://github.com/James-jb/James-jb/assets/85723291/d46b5e0b-2b4a-4afa-8fef-54b51607c04b)
+![header](./img/header.png)
 
 #### To native English speakers or language partners:
 These are translated by a translator. If you don’t understand English, please forgive me.<br>
@@ -20,43 +20,57 @@ But I enjoy learning new technologies and solving complex problems, while also b
 > **NOTE:** That's probably all I know
 
 <!--<p align="center">
-以前的呀，
+以前的呀，标签
      <img src="https://img.shields.io/badge/html-5-brightgreen">
      <img src="https://img.shields.io/badge/css-3-yellowgreen">
      <img src="https://img.shields.io/badge/JavaScript-yes-red">
 </p>-->
 
 <p align="left">
-<!--vs code-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<!--Linux-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
+<!-工具集合-->
+<!--vsCode-->
+<img src="./img/tool/vs-code.png" alt="vsCode" width="45" height="45" />
+<!--androidStudio-->
+<img src="./img/tool/android-studio.png" alt="androidStudio" width="45" height="45" />
+<!--intellij-->
+<img src="./img/tool/intellij.png" alt="intellij" width="45" height="45" />
 <!--git-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="./img/tool/git.png" alt="git" width="45" height="45" />
+<!--Linux-->
+<img src="./img/tool/linux.png" alt="Linux" width="45" height="45" />
+
+
 
 <!--所有语言了-->
 <!--前端-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
+<!--html css js vue-->
+<img src="./img/q/html5.png" alt="html5" width="45" height="45" />
+<img src="./img/q/css3.png" alt="css3" width="45" height="45" />
+<img src="./img/q/js.png" alt="js" width="45" height="45" />
+<img src="./img/q/vue-js.png" alt="vue-js" width="45" height="45" />
+
+
 <!--后端-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="c#"/>
+<!--java c++ android -->
+<img src="./img/h/java6.png" alt="java" width="45" height="45" />
+<img src="./img/h/c++.png" alt="C++" width="45" height="45" />
+<img src="./img/h/android.png" alt="android" width="45" height="45" />
+
 <!--数据库-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="./img/Database/mysql.png" alt="mysql" width="45" height="45" />
+<img src="./img/Database/database.png" alt="database" width="45" height="45" />
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-jb)
+<!--个人的星星-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=James-jb)
 
 
 
 ##  📫Get in Touch 
-> **NOTE:** May not grow in
+> **NOTE:** May not be online much
  
  <ul>
-   <li>mail： binjiang2022@yeah.net</li>
+   <li>Email： binjiang2022@yeah.net</li>
    <li>CSDN： https://blog.csdn.net/weixin_58570217?spm=1000.2115.3001.5343</li>
  </ul>
  
